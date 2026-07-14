@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Divyeshb3/Leethub/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Divyeshb3/Leethub/tree/master/0055-jump-game) |
 | [0496-next-greater-element-i](https://github.com/Divyeshb3/Leethub/tree/master/0496-next-greater-element-i) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Divyeshb3/Leethub/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Divyeshb3/Leethub/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Divyeshb3/Leethub/tree/master/0055-jump-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Divyeshb3/Leethub/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Binary Search
 |  |
 | ------- |
