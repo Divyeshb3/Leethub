@@ -15,6 +15,7 @@
 | [0496-next-greater-element-i](https://github.com/Divyeshb3/Leethub/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyeshb3/Leethub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Divyeshb3/Leethub/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Divyeshb3/Leethub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Divyeshb3/Leethub/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Two Pointers
 |  |
@@ -67,8 +68,13 @@
 | [0075-sort-colors](https://github.com/Divyeshb3/Leethub/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyeshb3/Leethub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Divyeshb3/Leethub/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Divyeshb3/Leethub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyeshb3/Leethub/tree/master/0628-maximum-product-of-three-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Divyeshb3/Leethub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
