@@ -12,6 +12,7 @@
 | [0055-jump-game](https://github.com/Divyeshb3/Leethub/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Divyeshb3/Leethub/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divyeshb3/Leethub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0219-contains-duplicate-ii](https://github.com/Divyeshb3/Leethub/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Divyeshb3/Leethub/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyeshb3/Leethub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Divyeshb3/Leethub/tree/master/0643-maximum-average-subarray-i) |
@@ -51,6 +52,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Divyeshb3/Leethub/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Divyeshb3/Leethub/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -81,5 +83,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Divyeshb3/Leethub/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Divyeshb3/Leethub/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
