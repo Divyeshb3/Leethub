@@ -24,6 +24,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/Divyeshb3/Leethub/tree/master/1052-grumpy-bookstore-owner) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Divyeshb3/Leethub/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Divyeshb3/Leethub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Divyeshb3/Leethub/tree/master/1480-running-sum-of-1d-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Divyeshb3/Leethub/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Divyeshb3/Leethub/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -111,6 +112,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Divyeshb3/Leethub/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Divyeshb3/Leethub/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Divyeshb3/Leethub/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/Divyeshb3/Leethub/tree/master/1480-running-sum-of-1d-array) |
 ## String
 |  |
 | ------- |
