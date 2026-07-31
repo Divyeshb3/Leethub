@@ -3,25 +3,21 @@ class Solution {
     {
         int sum=0;
         int c=0;
-        int l=0,r=k-1;
-        for(int i=0;i<k;i++)
+        int[] prefix=new int[arr.length+1];
+        prefix[0]=0;
+        for(int i=0;i<arr.length;i++)
         {
-            sum+=arr[i];
+            prefix[i+1]=prefix[i]+arr[i];
         }
-        if(sum/k>=threshold)
+        int j=0;
+        while(j<=arr.length-k)
         {
-            c++;
-        }
-        while(r<arr.length-1) 
-        {
-            sum-=arr[l];
-            l++;
-            r++;
-            sum+=arr[r];
+            sum=prefix[j+k]-prefix[j];
             if(sum/k>=threshold)
             {
                 c++;
-            }   
+            }
+            j++;
         }
         return c;
     }
