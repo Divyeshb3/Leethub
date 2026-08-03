@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/Divyeshb3/Leethub/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Divyeshb3/Leethub/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Divyeshb3/Leethub/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Divyeshb3/Leethub/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Divyeshb3/Leethub/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyeshb3/Leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Divyeshb3/Leethub/tree/master/0152-maximum-product-subarray) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Divyeshb3/Leethub/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Divyeshb3/Leethub/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Divyeshb3/Leethub/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Divyeshb3/Leethub/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyeshb3/Leethub/tree/master/0628-maximum-product-of-three-numbers) |
@@ -165,4 +167,8 @@
 | ------- |
 | [0268-missing-number](https://github.com/Divyeshb3/Leethub/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Divyeshb3/Leethub/tree/master/0287-find-the-duplicate-number) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Divyeshb3/Leethub/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
