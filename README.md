@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Divyeshb3/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Divyeshb3/Leethub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Divyeshb3/Leethub/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Divyeshb3/Leethub/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Divyeshb3/Leethub/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Divyeshb3/Leethub/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Divyeshb3/Leethub/tree/master/0056-merge-intervals) |
@@ -131,6 +132,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Divyeshb3/Leethub/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Divyeshb3/Leethub/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Divyeshb3/Leethub/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyeshb3/Leethub/tree/master/0628-maximum-product-of-three-numbers) |
@@ -194,6 +196,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Divyeshb3/Leethub/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/Divyeshb3/Leethub/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Divyeshb3/Leethub/tree/master/0867-transpose-matrix) |
 ## Simulation
