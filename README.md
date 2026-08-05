@@ -34,6 +34,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Divyeshb3/Leethub/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Divyeshb3/Leethub/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Divyeshb3/Leethub/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/Divyeshb3/Leethub/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Divyeshb3/Leethub/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Divyeshb3/Leethub/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Divyeshb3/Leethub/tree/master/0992-subarrays-with-k-different-integers) |
@@ -187,4 +188,12 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Divyeshb3/Leethub/tree/master/0278-first-bad-version) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Divyeshb3/Leethub/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Divyeshb3/Leethub/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
