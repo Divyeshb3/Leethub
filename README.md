@@ -34,6 +34,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Divyeshb3/Leethub/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Divyeshb3/Leethub/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Divyeshb3/Leethub/tree/master/0724-find-pivot-index) |
+| [0832-flipping-an-image](https://github.com/Divyeshb3/Leethub/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Divyeshb3/Leethub/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Divyeshb3/Leethub/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Divyeshb3/Leethub/tree/master/0977-squares-of-a-sorted-array) |
@@ -57,6 +58,7 @@
 | [0075-sort-colors](https://github.com/Divyeshb3/Leethub/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divyeshb3/Leethub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Divyeshb3/Leethub/tree/master/0287-find-the-duplicate-number) |
+| [0832-flipping-an-image](https://github.com/Divyeshb3/Leethub/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/Divyeshb3/Leethub/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -180,6 +182,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Divyeshb3/Leethub/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Divyeshb3/Leethub/tree/master/0287-find-the-duplicate-number) |
+| [0832-flipping-an-image](https://github.com/Divyeshb3/Leethub/tree/master/0832-flipping-an-image) |
 ## Quicksort
 |  |
 | ------- |
@@ -191,9 +194,11 @@
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Divyeshb3/Leethub/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Divyeshb3/Leethub/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Divyeshb3/Leethub/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Divyeshb3/Leethub/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
