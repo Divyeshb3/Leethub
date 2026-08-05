@@ -13,6 +13,7 @@
 | [0042-trapping-rain-water](https://github.com/Divyeshb3/Leethub/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Divyeshb3/Leethub/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Divyeshb3/Leethub/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Divyeshb3/Leethub/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Divyeshb3/Leethub/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Divyeshb3/Leethub/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Divyeshb3/Leethub/tree/master/0057-insert-interval) |
@@ -197,11 +198,13 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Divyeshb3/Leethub/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Divyeshb3/Leethub/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/Divyeshb3/Leethub/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Divyeshb3/Leethub/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Divyeshb3/Leethub/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/Divyeshb3/Leethub/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Divyeshb3/Leethub/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
