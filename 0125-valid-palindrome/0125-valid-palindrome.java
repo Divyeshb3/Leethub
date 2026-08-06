@@ -3,7 +3,7 @@ class Solution {
     {
         int i=0;
         int j=s.length()-1;
-        s = s.toLowerCase();
+        //s = s.toLowerCase();
         while(i<j)
         {
             while(i<j && !Character.isLetterOrDigit(s.charAt(i)))
@@ -15,7 +15,7 @@ class Solution {
             {
                 j--;
             }
-            if(s.charAt(i) == s.charAt(j))
+            if(Character.toLowerCase(s.charAt(i)) == Character.toLowerCase(s.charAt(j)))
             {
                 i++;
                 j--;
