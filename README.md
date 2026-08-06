@@ -58,6 +58,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divyeshb3/Leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Divyeshb3/Leethub/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Divyeshb3/Leethub/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Divyeshb3/Leethub/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divyeshb3/Leethub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Divyeshb3/Leethub/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/Divyeshb3/Leethub/tree/master/0832-flipping-an-image) |
@@ -171,6 +172,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Divyeshb3/Leethub/tree/master/0125-valid-palindrome) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Divyeshb3/Leethub/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
