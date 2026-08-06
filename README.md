@@ -61,6 +61,7 @@
 | [0125-valid-palindrome](https://github.com/Divyeshb3/Leethub/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divyeshb3/Leethub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Divyeshb3/Leethub/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/Divyeshb3/Leethub/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/Divyeshb3/Leethub/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/Divyeshb3/Leethub/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -173,6 +174,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Divyeshb3/Leethub/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/Divyeshb3/Leethub/tree/master/0344-reverse-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Divyeshb3/Leethub/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
