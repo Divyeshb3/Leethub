@@ -54,6 +54,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Divyeshb3/Leethub/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Divyeshb3/Leethub/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Divyeshb3/Leethub/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divyeshb3/Leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -95,6 +96,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Divyeshb3/Leethub/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Divyeshb3/Leethub/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Divyeshb3/Leethub/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Divyeshb3/Leethub/tree/master/0055-jump-game) |
@@ -178,6 +180,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Divyeshb3/Leethub/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Divyeshb3/Leethub/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Divyeshb3/Leethub/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Divyeshb3/Leethub/tree/master/0680-valid-palindrome-ii) |
@@ -222,4 +225,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Divyeshb3/Leethub/tree/master/3345-smallest-divisible-digit-product-i) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Divyeshb3/Leethub/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
