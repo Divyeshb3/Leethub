@@ -12,6 +12,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Divyeshb3/Leethub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Divyeshb3/Leethub/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Divyeshb3/Leethub/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Divyeshb3/Leethub/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Divyeshb3/Leethub/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Divyeshb3/Leethub/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Divyeshb3/Leethub/tree/master/0055-jump-game) |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Divyeshb3/Leethub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Divyeshb3/Leethub/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Divyeshb3/Leethub/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Divyeshb3/Leethub/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Divyeshb3/Leethub/tree/master/0242-valid-anagram) |
@@ -137,6 +139,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Divyeshb3/Leethub/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Divyeshb3/Leethub/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Divyeshb3/Leethub/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Divyeshb3/Leethub/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Divyeshb3/Leethub/tree/master/0242-valid-anagram) |
@@ -194,6 +197,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Divyeshb3/Leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Divyeshb3/Leethub/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/Divyeshb3/Leethub/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Divyeshb3/Leethub/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Divyeshb3/Leethub/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Divyeshb3/Leethub/tree/master/0242-valid-anagram) |
