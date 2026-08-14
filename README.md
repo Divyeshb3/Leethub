@@ -110,6 +110,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Divyeshb3/Leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Divyeshb3/Leethub/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Divyeshb3/Leethub/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Divyeshb3/Leethub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Divyeshb3/Leethub/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Divyeshb3/Leethub/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Divyeshb3/Leethub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -137,6 +138,7 @@
 | [0018-4sum](https://github.com/Divyeshb3/Leethub/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Divyeshb3/Leethub/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Divyeshb3/Leethub/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Divyeshb3/Leethub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Divyeshb3/Leethub/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Divyeshb3/Leethub/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyeshb3/Leethub/tree/master/0628-maximum-product-of-three-numbers) |
@@ -193,6 +195,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Divyeshb3/Leethub/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/Divyeshb3/Leethub/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Divyeshb3/Leethub/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Divyeshb3/Leethub/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Divyeshb3/Leethub/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Divyeshb3/Leethub/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Divyeshb3/Leethub/tree/master/0567-permutation-in-string) |
