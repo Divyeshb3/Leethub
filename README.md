@@ -115,6 +115,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Divyeshb3/Leethub/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Divyeshb3/Leethub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Divyeshb3/Leethub/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Divyeshb3/Leethub/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Divyeshb3/Leethub/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Divyeshb3/Leethub/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Divyeshb3/Leethub/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -205,6 +206,7 @@
 | [0125-valid-palindrome](https://github.com/Divyeshb3/Leethub/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Divyeshb3/Leethub/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Divyeshb3/Leethub/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Divyeshb3/Leethub/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Divyeshb3/Leethub/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Divyeshb3/Leethub/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Divyeshb3/Leethub/tree/master/0424-longest-repeating-character-replacement) |
