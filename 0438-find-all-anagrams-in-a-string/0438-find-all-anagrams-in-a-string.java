@@ -21,11 +21,11 @@ class Solution {
             if(r-l+1>p.length())
             {
                 char left=s.charAt(l);
-                if(pmap.containsKey(left) && smap.get(left)<=pmap.get(left))
+                smap.put(left,smap.getOrDefault(left,0)-1);
+                if(pmap.containsKey(left) && smap.get(left)<pmap.get(left))
                 {
                     count++;
                 }
-                smap.put(left,smap.getOrDefault(left,0)-1);
                 l++;
             }
             if(count==0)
