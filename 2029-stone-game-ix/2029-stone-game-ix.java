@@ -1,18 +1,36 @@
 class Solution {
     public boolean stoneGameIX(int[] stones) 
     {
-        int[] count = new int[3];
+        int zero = 0;
+        int one = 0;
+        int two = 0;
 
-        for(int stone : stones)
+        for(int x : stones)
         {
-            count[stone % 3]++;
+            if(x % 3 == 0)
+            {
+                zero++;
+            }
+            else if(x % 3 == 1)
+            {
+                one++;
+            }
+            else
+            {
+                two++;
+            }
         }
 
-        if(count[0] % 2 == 0)
+        if(one == 0 && two == 0)
         {
-            return Math.min(count[1], count[2]) > 0;
+            return false;
         }
 
-        return Math.abs(count[1] - count[2]) > 2;
+        if(zero % 2 == 0)
+        {
+            return one > 0 && two > 0;
+        }
+
+        return Math.abs(one - two) > 2;
     }
 }
