@@ -217,6 +217,7 @@
 | [0014-longest-common-prefix](https://github.com/Divyeshb3/Leethub/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divyeshb3/Leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Divyeshb3/Leethub/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Divyeshb3/Leethub/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Divyeshb3/Leethub/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Divyeshb3/Leethub/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Divyeshb3/Leethub/tree/master/0205-isomorphic-strings) |
