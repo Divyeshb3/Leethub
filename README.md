@@ -19,6 +19,7 @@
 | [0055-jump-game](https://github.com/Divyeshb3/Leethub/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Divyeshb3/Leethub/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Divyeshb3/Leethub/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Divyeshb3/Leethub/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Divyeshb3/Leethub/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyeshb3/Leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Divyeshb3/Leethub/tree/master/0152-maximum-product-subarray) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Divyeshb3/Leethub/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Divyeshb3/Leethub/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Divyeshb3/Leethub/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Divyeshb3/Leethub/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyeshb3/Leethub/tree/master/0628-maximum-product-of-three-numbers) |
