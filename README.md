@@ -71,6 +71,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divyeshb3/Leethub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Divyeshb3/Leethub/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Divyeshb3/Leethub/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Divyeshb3/Leethub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Divyeshb3/Leethub/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Divyeshb3/Leethub/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Divyeshb3/Leethub/tree/master/0567-permutation-in-string) |
@@ -227,6 +228,7 @@
 | [0242-valid-anagram](https://github.com/Divyeshb3/Leethub/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Divyeshb3/Leethub/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Divyeshb3/Leethub/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Divyeshb3/Leethub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Divyeshb3/Leethub/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Divyeshb3/Leethub/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Divyeshb3/Leethub/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
