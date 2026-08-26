@@ -33,6 +33,7 @@
 | [0268-missing-number](https://github.com/Divyeshb3/Leethub/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Divyeshb3/Leethub/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Divyeshb3/Leethub/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/Divyeshb3/Leethub/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Divyeshb3/Leethub/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Divyeshb3/Leethub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Divyeshb3/Leethub/tree/master/0496-next-greater-element-i) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Divyeshb3/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Divyeshb3/Leethub/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/Divyeshb3/Leethub/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Divyeshb3/Leethub/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Dynamic Programming
 |  |
@@ -133,6 +135,7 @@
 | [0242-valid-anagram](https://github.com/Divyeshb3/Leethub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Divyeshb3/Leethub/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Divyeshb3/Leethub/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Divyeshb3/Leethub/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Divyeshb3/Leethub/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Divyeshb3/Leethub/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Divyeshb3/Leethub/tree/master/0424-longest-repeating-character-replacement) |
@@ -168,6 +171,7 @@
 | [0217-contains-duplicate](https://github.com/Divyeshb3/Leethub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Divyeshb3/Leethub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Divyeshb3/Leethub/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Divyeshb3/Leethub/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Divyeshb3/Leethub/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyeshb3/Leethub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Divyeshb3/Leethub/tree/master/0977-squares-of-a-sorted-array) |
@@ -187,6 +191,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Divyeshb3/Leethub/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Divyeshb3/Leethub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sliding Window
 |  |
@@ -248,6 +253,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Divyeshb3/Leethub/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Divyeshb3/Leethub/tree/master/0383-ransom-note) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Divyeshb3/Leethub/tree/master/0992-subarrays-with-k-different-integers) |
 | [2029-stone-game-ix](https://github.com/Divyeshb3/Leethub/tree/master/2029-stone-game-ix) |
@@ -332,4 +338,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Divyeshb3/Leethub/tree/master/0014-longest-common-prefix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Divyeshb3/Leethub/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Divyeshb3/Leethub/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
