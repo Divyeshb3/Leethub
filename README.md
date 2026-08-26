@@ -27,6 +27,7 @@
 | [0136-single-number](https://github.com/Divyeshb3/Leethub/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Divyeshb3/Leethub/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divyeshb3/Leethub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Divyeshb3/Leethub/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Divyeshb3/Leethub/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Divyeshb3/Leethub/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Divyeshb3/Leethub/tree/master/0219-contains-duplicate-ii) |
@@ -110,6 +111,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Divyeshb3/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Divyeshb3/Leethub/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Divyeshb3/Leethub/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Divyeshb3/Leethub/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Divyeshb3/Leethub/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Dynamic Programming
@@ -131,6 +133,7 @@
 | [0049-group-anagrams](https://github.com/Divyeshb3/Leethub/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Divyeshb3/Leethub/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Divyeshb3/Leethub/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Divyeshb3/Leethub/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Divyeshb3/Leethub/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Divyeshb3/Leethub/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Divyeshb3/Leethub/tree/master/0219-contains-duplicate-ii) |
@@ -170,6 +173,7 @@
 | [0049-group-anagrams](https://github.com/Divyeshb3/Leethub/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Divyeshb3/Leethub/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Divyeshb3/Leethub/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Divyeshb3/Leethub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Divyeshb3/Leethub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Divyeshb3/Leethub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Divyeshb3/Leethub/tree/master/0268-missing-number) |
@@ -255,6 +259,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Divyeshb3/Leethub/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Divyeshb3/Leethub/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Divyeshb3/Leethub/tree/master/0383-ransom-note) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Divyeshb3/Leethub/tree/master/0992-subarrays-with-k-different-integers) |
@@ -352,4 +357,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Divyeshb3/Leethub/tree/master/0128-longest-consecutive-sequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Divyeshb3/Leethub/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
