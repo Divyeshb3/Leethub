@@ -23,6 +23,7 @@
 | [0066-plus-one](https://github.com/Divyeshb3/Leethub/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Divyeshb3/Leethub/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyeshb3/Leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Divyeshb3/Leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Divyeshb3/Leethub/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Divyeshb3/Leethub/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divyeshb3/Leethub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -129,6 +130,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Divyeshb3/Leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Divyeshb3/Leethub/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Divyeshb3/Leethub/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Divyeshb3/Leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Divyeshb3/Leethub/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Divyeshb3/Leethub/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Divyeshb3/Leethub/tree/master/0219-contains-duplicate-ii) |
@@ -346,4 +348,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Divyeshb3/Leethub/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Divyeshb3/Leethub/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
