@@ -41,6 +41,7 @@
 | [0454-4sum-ii](https://github.com/Divyeshb3/Leethub/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/Divyeshb3/Leethub/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Divyeshb3/Leethub/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Divyeshb3/Leethub/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Divyeshb3/Leethub/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyeshb3/Leethub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Divyeshb3/Leethub/tree/master/0643-maximum-average-subarray-i) |
@@ -150,6 +151,7 @@
 | [0454-4sum-ii](https://github.com/Divyeshb3/Leethub/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/Divyeshb3/Leethub/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Divyeshb3/Leethub/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Divyeshb3/Leethub/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Divyeshb3/Leethub/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Divyeshb3/Leethub/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Divyeshb3/Leethub/tree/master/0904-fruit-into-baskets) |
@@ -227,6 +229,7 @@
 | [0238-product-of-array-except-self](https://github.com/Divyeshb3/Leethub/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Divyeshb3/Leethub/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Divyeshb3/Leethub/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Divyeshb3/Leethub/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Divyeshb3/Leethub/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Divyeshb3/Leethub/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Divyeshb3/Leethub/tree/master/1004-max-consecutive-ones-iii) |
