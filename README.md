@@ -59,6 +59,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Divyeshb3/Leethub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Divyeshb3/Leethub/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Divyeshb3/Leethub/tree/master/1732-find-the-highest-altitude) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Divyeshb3/Leethub/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/Divyeshb3/Leethub/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Divyeshb3/Leethub/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Divyeshb3/Leethub/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -156,6 +157,7 @@
 | [0567-permutation-in-string](https://github.com/Divyeshb3/Leethub/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Divyeshb3/Leethub/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Divyeshb3/Leethub/tree/master/0992-subarrays-with-k-different-integers) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Divyeshb3/Leethub/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Divyeshb3/Leethub/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Divyeshb3/Leethub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Divyeshb3/Leethub/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -268,6 +270,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Divyeshb3/Leethub/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Divyeshb3/Leethub/tree/master/0383-ransom-note) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Divyeshb3/Leethub/tree/master/0992-subarrays-with-k-different-integers) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Divyeshb3/Leethub/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/Divyeshb3/Leethub/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Divyeshb3/Leethub/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
