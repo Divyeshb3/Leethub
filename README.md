@@ -153,6 +153,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Divyeshb3/Leethub/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyeshb3/Leethub/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Divyeshb3/Leethub/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Divyeshb3/Leethub/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Divyeshb3/Leethub/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Divyeshb3/Leethub/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Divyeshb3/Leethub/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -265,6 +266,7 @@
 | [0344-reverse-string](https://github.com/Divyeshb3/Leethub/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Divyeshb3/Leethub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Divyeshb3/Leethub/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Divyeshb3/Leethub/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Divyeshb3/Leethub/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Divyeshb3/Leethub/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Divyeshb3/Leethub/tree/master/0424-longest-repeating-character-replacement) |
@@ -279,6 +281,7 @@
 | [0169-majority-element](https://github.com/Divyeshb3/Leethub/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Divyeshb3/Leethub/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Divyeshb3/Leethub/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Divyeshb3/Leethub/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Divyeshb3/Leethub/tree/master/0992-subarrays-with-k-different-integers) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Divyeshb3/Leethub/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/Divyeshb3/Leethub/tree/master/2029-stone-game-ix) |
@@ -385,4 +388,8 @@
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Divyeshb3/Leethub/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Divyeshb3/Leethub/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
