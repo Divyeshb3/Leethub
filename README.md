@@ -68,6 +68,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Divyeshb3/Leethub/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Divyeshb3/Leethub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Divyeshb3/Leethub/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Divyeshb3/Leethub/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Divyeshb3/Leethub/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -168,6 +169,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Divyeshb3/Leethub/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Divyeshb3/Leethub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Divyeshb3/Leethub/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Divyeshb3/Leethub/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Divyeshb3/Leethub/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Stack
 |  |
@@ -292,6 +294,7 @@
 | [0268-missing-number](https://github.com/Divyeshb3/Leethub/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Divyeshb3/Leethub/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/Divyeshb3/Leethub/tree/master/0832-flipping-an-image) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Divyeshb3/Leethub/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Quicksort
 |  |
 | ------- |
@@ -307,6 +310,7 @@
 | [0054-spiral-matrix](https://github.com/Divyeshb3/Leethub/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/Divyeshb3/Leethub/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Divyeshb3/Leethub/tree/master/0867-transpose-matrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Divyeshb3/Leethub/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -377,4 +381,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Divyeshb3/Leethub/tree/master/0169-majority-element) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Divyeshb3/Leethub/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
