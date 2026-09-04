@@ -71,6 +71,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Divyeshb3/Leethub/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Divyeshb3/Leethub/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Divyeshb3/Leethub/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Divyeshb3/Leethub/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -251,6 +252,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Divyeshb3/Leethub/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Divyeshb3/Leethub/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Divyeshb3/Leethub/tree/master/1732-find-the-highest-altitude) |
+| [3903-smallest-stable-index-i](https://github.com/Divyeshb3/Leethub/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
