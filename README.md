@@ -209,6 +209,7 @@
 | [0048-rotate-image](https://github.com/Divyeshb3/Leethub/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Divyeshb3/Leethub/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Divyeshb3/Leethub/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Divyeshb3/Leethub/tree/master/0292-nim-game) |
 | [0523-continuous-subarray-sum](https://github.com/Divyeshb3/Leethub/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyeshb3/Leethub/tree/master/0628-maximum-product-of-three-numbers) |
 | [2029-stone-game-ix](https://github.com/Divyeshb3/Leethub/tree/master/2029-stone-game-ix) |
@@ -335,14 +336,17 @@
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Divyeshb3/Leethub/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/Divyeshb3/Leethub/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Divyeshb3/Leethub/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/Divyeshb3/Leethub/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Divyeshb3/Leethub/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/Divyeshb3/Leethub/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -396,4 +400,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Divyeshb3/Leethub/tree/master/0387-first-unique-character-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Divyeshb3/Leethub/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Divyeshb3/Leethub/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
