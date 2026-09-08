@@ -214,6 +214,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyeshb3/Leethub/tree/master/0628-maximum-product-of-three-numbers) |
 | [2029-stone-game-ix](https://github.com/Divyeshb3/Leethub/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Divyeshb3/Leethub/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3870-count-commas-in-range](https://github.com/Divyeshb3/Leethub/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Divyeshb3/Leethub/tree/master/3875-construct-uniform-parity-array-i) |
 ## Heap (Priority Queue)
 |  |
