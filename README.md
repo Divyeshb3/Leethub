@@ -210,6 +210,7 @@
 | [0066-plus-one](https://github.com/Divyeshb3/Leethub/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Divyeshb3/Leethub/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Divyeshb3/Leethub/tree/master/0292-nim-game) |
+| [0507-perfect-number](https://github.com/Divyeshb3/Leethub/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/Divyeshb3/Leethub/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyeshb3/Leethub/tree/master/0628-maximum-product-of-three-numbers) |
 | [2029-stone-game-ix](https://github.com/Divyeshb3/Leethub/tree/master/2029-stone-game-ix) |
